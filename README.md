@@ -211,7 +211,7 @@ https://www.smh.com.au/business/small-business/coffee-cup-dilemma-leads-to-austr
 | Business Area  | KPI | Description |  Performance |
 | ----------- | ----------- | ----------- | ----------- |
 | Business Offering   | Countries & Currencies offered | Number of currencies and countries    |:arrow_up: |
-| Business Offering   | Growth in Volume of Money | Daily / Monthly / Annual volume of money handled    |::arrow_up:|
+| Business Offering   | Growth in Volume of Money | Daily / Monthly / Annual volume of money handled    |:arrow_up:|
 |Business Offering   | Settlement time | Time taken from payment to receipt    |:arrow_up: |
 | Business Offering    | Cost of transaction | Cost relative to industry     | :arrow_up:|
 | Business Offering  | Onboarding Efficiency | Ease and Time to Onboard Customer    | :arrow_up:|
@@ -230,6 +230,14 @@ https://www.smh.com.au/business/small-business/coffee-cup-dilemma-leads-to-austr
 |Platform|Data monetisation|Availability and Use of Data Collected| :arrow_up: |
 |Platform|Automation|Intelligence and Automation levels of processes in financial payment offered| :left_right_arrow: |
 |Platform|Availability|Technology Uptime and Availability| :arrow_up:|
+
+***Key***
+
+| Description | Key |
+| ---------------|----|
+|Performing Well|:arrow_up:|
+|At par with industry|:left_right_arrow:|
+|Can do better|:arrow_down:|
 
 # Recommendations
 
