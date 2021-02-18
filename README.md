@@ -2,7 +2,7 @@
 
 # Overview and Origin
 
-<img src="./../images/Airwallex+Logo+-+Black+(1).png" align="right"
+<img src="./images/Airwallex+Logo+-+Black+(1).png" align="right"
      alt="Airwallex logo" width="120" height="58">
 
 ## <u>About</u>
@@ -27,7 +27,7 @@ It's registration details are:
   
 ## <u>Founders</u>
 
-> ![founders](../images/airwallexteam.webp)
+> ![founders](./images/airwallexteam.webp)
 > from left: Xijing Dai, Lucy Liu, Jack Zhang and Max Li.
 
 <br/>
@@ -50,13 +50,13 @@ They, thus, set up AirWallex to provide small businesses needing to make cross-b
   
 ## <u> Funding </u>
 
-![funding](./../images/funding.png)
+![funding](./images/funding.png)
 
 ### <u> Investors  </u>
 
 <br/>
 
-> ![investors](../images/Investors.png)
+> ![investors](./images/Investors.png)
 
 # Business Activities
 
@@ -101,7 +101,7 @@ They are also targeting service companies, travel companies and agencies. With t
 
 With their API platform, AirWallex is working with technology companies to provide them a single payment and receivables platform. These companies can integrate global payments into their offering or platform. With the platform, they can programmatically open global accounts, issue virtual cards, manage forex, make and receive payments.
 
-![API Integration](../images/API_platform.webp)
+![API Integration](./images/API_platform.webp)
 
 
 ####  <u> Addressable Market / Market Analysis </u>
