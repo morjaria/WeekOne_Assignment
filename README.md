@@ -127,7 +127,7 @@ through point-of-sale financing." McKinsey
 
 ####  <u> Technologies </u>
 
-Airwallex technology details are not publicly published. Looking at the blogs, job postings and YouTube videos, the following are assumed:
+Airwallex technology details are ***not*** publicly published. Looking at the blogs, job postings and YouTube videos, the following are assumed:
 
 1. User Interfaces:
    * HTML
