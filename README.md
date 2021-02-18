@@ -3,7 +3,7 @@
 # Overview and Origin
 
 <img src="./images/Airwallex+Logo+-+Black+(1).png" align="right"
-     alt="Airwallex logo" width="120" height="58">
+     alt="Airwallex logo" width="260" height="128">
 
 ## <u>About</u>
 
@@ -150,7 +150,7 @@ Airwallex technology details are not publicly published. Looking at the blogs, j
    * Python
    * Tableau 
    * Datalogic 
-   * Pr0metheus
+   * Prometheus
   
 > "Our technology takes location, time, and available payment routes into consideration as part of the calculation process so as to minimise risk and cost while increasing speed of delivery. This allows us to process thousands of transactions per second as cost-effectively as possible, and deliver payments to over 100 countries globally."
 
