@@ -207,7 +207,7 @@ Though it is now "tracking well beyond" its forecast of $20 million.
 
 ###  <u> Domain Metrics & Performance Relative to Competitors </u>
 
-| Business Area  | KPI | Description |  Performance |
+| **Business Area**  | **KPI** | **Description** |  **Performance** |
 | ----------- | ----------- | ----------- | ----------- |
 | Business Offering   | Countries & Currencies offered | Number of currencies and countries    |:arrow_up: |
 | Business Offering   | Growth in Volume of Money | Daily / Monthly / Annual volume of money handled    |:arrow_up:|
