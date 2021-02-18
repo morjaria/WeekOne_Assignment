@@ -200,11 +200,10 @@ The top players in this domain are:
  Being a private company, it does not publish revenue and customer numbers.
  They have helped reduce costs for users by as much as 90% based on traditional foreign exchange rates, according to the company, resulting in fees of less than 1%.
  In the past year the company recorded revenue growth of more than 500 per cent and it achieved an annual run rate of $US10 billion in transaction processing volumes.
-https://www.afr.com/technology/airwallex-launches-borderless-card-20200204-p53xl2
+
 
 Despite its sky rocketing value, AirWallex's reported revenues are modest. In the most recent financial records filed with the regulator for the year ending June 30, 2017, Airwallex reported revenue of $14,803 and a loss of $806,195.
 Though it is now "tracking well beyond" its forecast of $20 million.
-https://www.smh.com.au/business/small-business/coffee-cup-dilemma-leads-to-australia-s-latest-1b-tech-unicorn-20190325-p517bv.html
 
 ###  <u> Domain Metrics & Performance Relative to Competitors </u>
 
