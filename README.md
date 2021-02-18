@@ -272,9 +272,8 @@ Not much is available of the technologies used by the organisation but looking a
 
 ## Forward
 
-``` sh
-"We started with payments and now we are building a global financial infrastructure, we are the Amazon Web Services (AWS) of global banking,"  "We build a technology layer or API [Application Programming Interface] layer sitting on top of more than 50 banks around the world." Zhang
-```
+>> "We started with payments and now we are building a global financial infrastructure, we are the Amazon Web Services (AWS) of global banking,"  "We build a technology layer or API [Application Programming Interface] layer sitting on top of more than 50 banks around the world." Zhang
+
 
 ## Reference Links
 * [Airwallex](https://www.airwallex.com/au)
